@@ -1,4 +1,4 @@
-# BDD-WorkShop-Test
+# BDD Test
 Practice BDD development using SpecFlow and SpecFlow.NUnit.
 
 # Requirement (English)
