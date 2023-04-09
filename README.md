@@ -1,5 +1,5 @@
 # BDD Test
-Practice BDD development using SpecFlow and SpecFlow.NUnit.
+Use SpecFlow and SpecFlow.NUnit to practice BDD test.
 
 # Requirement (English)
 
